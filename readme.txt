@@ -1,0 +1,1 @@
+A macOS animated wallpaper program
