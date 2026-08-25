@@ -1,0 +1,5 @@
+.build/
+MacPaper.app/
+*.xcodeproj/xcuserdata/
+.DS_Store
+DerivedData/
